@@ -47,7 +47,7 @@
     <micrometer.version>1.7.3</micrometer.version>
     <prometheus.version>0.10.0</prometheus.version>
     <swagger-ui.version>3.52.5</swagger-ui.version>
-    <swagger-jersey2-jaxrs.version>1.6.3</swagger-jersey2-jaxrs.version>
+    <swagger-jersey2-jaxrs.version>1.6.6</swagger-jersey2-jaxrs.version>
     <netty.version>4.1.75.Final</netty.version>
     <netty-boringssl.version>2.0.51.Final</netty-boringssl.version>
 
